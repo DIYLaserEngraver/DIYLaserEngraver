@@ -1,3 +1,6 @@
 [submodule "Marlin"]
 	path = Marlin
 	url = https://github.com/DIYLaserEngraver/DIYLaserEngraverMarlin
+[submodule "Machine"]
+	path = Machine
+	url = https://github.com/DIYLaserEngraver/DIYLaserEngraverMachine
